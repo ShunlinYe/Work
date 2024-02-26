@@ -1,0 +1,105 @@
+C:\Users\19011200\Desktop\抽奖源代码VS2008\抽奖源代码VS2008\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe
+C:\Users\19011200\Desktop\抽奖源代码VS2008\抽奖源代码VS2008\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.pdb
+C:\Users\19011200\Desktop\抽奖源代码VS2008\抽奖源代码VS2008\AnnualLottery\AnnualLottery\obj\Release\ResolveAssemblyReference.cache
+C:\Users\19011200\Desktop\抽奖源代码VS2008\抽奖源代码VS2008\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.MainForm.resources
+C:\Users\19011200\Desktop\抽奖源代码VS2008\抽奖源代码VS2008\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.Properties.Resources.resources
+C:\Users\19011200\Desktop\抽奖源代码VS2008\抽奖源代码VS2008\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.exe
+C:\Users\19011200\Desktop\抽奖源代码VS2008\抽奖源代码VS2008\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.pdb
+C:\Users\AnnualDinner\Desktop\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.exe
+C:\Users\AnnualDinner\Desktop\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.pdb
+C:\Users\AnnualDinner\Desktop\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe
+C:\Users\AnnualDinner\Desktop\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.pdb
+C:\Users\AnnualDinner\Desktop\AnnualLottery\AnnualLottery\obj\Release\ResolveAssemblyReference.cache
+C:\Users\AnnualDinner\Desktop\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.MainForm.resources
+C:\Users\AnnualDinner\Desktop\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.Properties.Resources.resources
+C:\Users\AnnualDinner\Desktop\AnnualLottery\AnnualLottery\obj\Release\ResGen.read.1.tlog
+C:\Users\AnnualDinner\Desktop\AnnualLottery\AnnualLottery\obj\Release\ResGen.write.1.tlog
+C:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.exe
+C:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.pdb
+C:\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe
+C:\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.pdb
+C:\AnnualLottery\AnnualLottery\obj\Release\ResolveAssemblyReference.cache
+C:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.MainForm.resources
+C:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.Properties.Resources.resources
+C:\AnnualLottery\AnnualLottery\obj\Release\ResGen.read.1.tlog
+C:\AnnualLottery\AnnualLottery\obj\Release\ResGen.write.1.tlog
+D:\work\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.exe
+D:\work\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.pdb
+D:\work\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe
+D:\work\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.pdb
+D:\work\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.MainForm.resources
+D:\work\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.Properties.Resources.resources
+D:\work\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csproj.GenerateResource.Cache
+D:\LearnProject\抽奖源代码-new\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.exe
+D:\LearnProject\抽奖源代码-new\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.pdb
+D:\LearnProject\抽奖源代码-new\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe
+D:\LearnProject\抽奖源代码-new\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.pdb
+D:\LearnProject\抽奖源代码-new\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.MainForm.resources
+D:\LearnProject\抽奖源代码-new\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.Properties.Resources.resources
+D:\LearnProject\抽奖源代码-new\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csproj.GenerateResource.Cache
+D:\LearnProject\抽奖源代码-new\抽奖源代码\抽奖源代码\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csprojResolveAssemblyReference.cache
+E:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.exe
+E:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.pdb
+E:\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe
+E:\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.pdb
+E:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csprojResolveAssemblyReference.cache
+E:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.MainForm.resources
+E:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.Properties.Resources.resources
+E:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csproj.GenerateResource.Cache
+I:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.exe
+I:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.pdb
+I:\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe
+I:\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.pdb
+I:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csprojResolveAssemblyReference.cache
+I:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.MainForm.resources
+I:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.Properties.Resources.resources
+I:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csproj.GenerateResource.Cache
+L:\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe
+L:\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.pdb
+L:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csprojAssemblyReference.cache
+L:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.MainForm.resources
+L:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.Properties.Resources.resources
+L:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csproj.GenerateResource.cache
+L:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csproj.CoreCompileInputs.cache
+L:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.exe
+L:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.pdb
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.exe
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.pdb
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.pdb
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.MainForm.resources
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.Properties.Resources.resources
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csproj.GenerateResource.Cache
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csprojAssemblyReference.cache
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csproj.CoreCompileInputs.cache
+D:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.exe
+D:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.pdb
+D:\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe
+D:\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.pdb
+D:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csprojResolveAssemblyReference.cache
+D:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.MainForm.resources
+D:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.Properties.Resources.resources
+D:\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csproj.GenerateResource.Cache
+D:\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe.config
+F:\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe.config
+F:\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.exe
+F:\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.pdb
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe.config
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.exe
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.pdb
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.pdb
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csprojResolveAssemblyReference.cache
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.MainForm.resources
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.Properties.Resources.resources
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csproj.GenerateResource.Cache
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe.config
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.exe
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\bin\Release\AnnualLottery.pdb
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csproj.AssemblyReference.cache
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.MainForm.resources
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.Properties.Resources.resources
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csproj.GenerateResource.cache
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.csproj.CoreCompileInputs.cache
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.exe
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Release\AnnualLottery.pdb

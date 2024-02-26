@@ -1,0 +1,27 @@
+﻿LevelCount=8
+Level0=1:0:1
+Level1=1:0:1
+Level2=2:0:1
+Level3=3:0:1
+Level4=10:0:5
+Level5=20:0:10
+Level6=30:0:10
+Level7=40:0:20
+Hanson Hou 侯蔚宇-11009742--
+Kathy Men 门路开-10022411--
+Benny Liu 刘雷-10055167--
+Marco Wang 王琦-19010661--
+Michelle Li 李妍珺-19006540--
+Xiaoqiang Ran 冉晓强-19003605--
+Viko Tao 陶冶-19023597--
+Raissa Huang 黄纯权-19006407--
+Jerry Liu 刘力-19017235--
+Weisong Wang 王卫松-19012179--
+Jeremy Li 李朝-19032430--
+Alan Chen 陈嘉宇-19031737--
+Nancy Wang 王晓萍-10101026--
+Yoyo Wanglu 王陆悠悠-19032612--
+Qingdan He 何庆丹-19009659--
+Jimmy Huang 黄进-19032353--
+Junquan Lu 卢军权-19023571--
+Kian Zhong 仲文斌-19007297--

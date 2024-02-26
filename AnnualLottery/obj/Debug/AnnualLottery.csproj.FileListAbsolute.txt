@@ -1,0 +1,50 @@
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.exe
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.pdb
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.exe
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.pdb
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.MainForm.resources
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.Properties.Resources.resources
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csproj.GenerateResource.cache
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csproj.CoreCompileInputs.cache
+D:\svn\kiosk\trunk\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csprojAssemblyReference.cache
+D:\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.exe
+D:\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.pdb
+D:\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.exe
+D:\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.pdb
+D:\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.MainForm.resources
+D:\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.Properties.Resources.resources
+D:\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csproj.GenerateResource.Cache
+D:\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.exe.config
+D:\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csprojResolveAssemblyReference.cache
+\\10.112.21.114\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csproj.AssemblyReference.cache
+\\10.112.21.114\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.exe
+\\10.112.21.114\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.pdb
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.exe.config
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.exe
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.pdb
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csprojResolveAssemblyReference.cache
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.MainForm.resources
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.Properties.Resources.resources
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csproj.GenerateResource.Cache
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.exe
+J:\Shared\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.pdb
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.exe.config
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.exe
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.pdb
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csproj.AssemblyReference.cache
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.MainForm.resources
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.Properties.Resources.resources
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csproj.GenerateResource.cache
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csproj.CoreCompileInputs.cache
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.exe
+F:\Donny\DonnyPC\12. Code\Aut\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.pdb
+D:\Work\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.exe.config
+D:\Work\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.exe
+D:\Work\AnnualLottery\AnnualLottery\bin\Debug\AnnualLottery.pdb
+D:\Work\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csproj.AssemblyReference.cache
+D:\Work\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.MainForm.resources
+D:\Work\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.Properties.Resources.resources
+D:\Work\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csproj.GenerateResource.cache
+D:\Work\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.csproj.CoreCompileInputs.cache
+D:\Work\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.exe
+D:\Work\AnnualLottery\AnnualLottery\obj\Debug\AnnualLottery.pdb

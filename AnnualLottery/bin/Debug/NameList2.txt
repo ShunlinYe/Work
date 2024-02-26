@@ -1,0 +1,27 @@
+﻿LevelCount=8
+Level0=1:0:1
+Level1=1:0:1
+Level2=2:0:1
+Level3=3:0:1
+Level4=10:0:5
+Level5=20:0:10
+Level6=30:0:10
+Level7=40:0:20
+Wenhui Li	李文辉	-	19031468	--
+Donald Shi	石宇杰	-	19009774	--
+David Xu	徐劼	-	19003620	--
+Weisong Wang	王卫松	-	19012179	--
+Yusheng Liao	廖宇盛	-	19030061	--
+Yiqin Shi	施亦琴	-	11003632	--
+Joyce Li	李婷	-	19009197	--
+Eva Tan	谭爱华	-	10058829	--
+Andrew Xu	许云彤	-	19023403	--
+Chenwei Ni	倪晨炜	-	19031370	--
+Jack Zhou	周有杰	-	10055524	--
+Xianjun Zhan	展先俊	-	19007443	--
+Rita Xiong	熊冰	-	19003081	--
+Lucas Kong	孔昊	-	19031734	--
+Smith Zhu	朱献军	-	10075818	--
+Annie He	贺艳红	-	19011297	--
+Terry Xu 徐翔-19010842--
+David Zhong	钟大卫	-	19031688	--

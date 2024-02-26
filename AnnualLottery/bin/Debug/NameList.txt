@@ -1,0 +1,27 @@
+﻿LevelCount=8
+Level0=1:0:1
+Level1=1:0:1
+Level2=2:0:1
+Level3=3:0:1
+Level4=10:0:5
+Level5=20:0:10
+Level6=30:0:10
+Level7=40:0:20
+Junwei Zhao 赵俊伟-19010015--
+Karina Ma 马如蛟-19032005--
+Andrew Xu 许云彤-19023403--
+Annie He 贺艳红-19011297--
+Scott Wu 吴晓雄-19016487--
+Rita Xiong 熊冰-19003081--
+Wenli Xiao 肖雯丽-19031039--
+Yang Xia 夏阳-19021886--
+Lily Zhou 周立-10031400--
+James Fu 傅巍-19016739--
+Raissa Huang 黄纯权-19006407--
+Clifford Chen 陈守水-19031610--
+Thomas Jiang 蒋春涛-10015378--
+Vicky Chen 陈俊娴-19007181--
+Kaliven Lee 李葳-10059482--
+Nianshuang Li 李念爽-19023606--
+Qingdan He 何庆丹-19009659--
+Hailei Zhang 张海磊-19023417--

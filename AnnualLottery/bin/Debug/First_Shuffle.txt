@@ -1,0 +1,411 @@
+﻿Rick Yang	杨松		19004723	
+Yoyo Wanglu	王陆悠悠		19032612	
+Zhangfeng He	何张峰		19022815	
+Xiaoqiang Ran	冉晓强		19003605	
+Forrest Feng	冯长征		19003519	
+David Yang	杨德庆		19008343	
+Sally Huang	黄大荣		19001249	
+Alan Chen	陈嘉宇		19031737	
+Lily Zhou	周立		10031400	
+Xijiao Chen	陈锡娇		19030497	
+Rita Xiong	熊冰		19003081	
+Scott Wu	吴晓雄		19016487	
+Hailei Zhang	张海磊		19023417	
+Ruobing Wu	吴若冰		19023370	
+Shunlin Ye	叶顺林		19031227	
+Jack Zhou	周有杰		10055524	
+Song Zhao	赵松		19018670	
+Junquan Lu	卢军权		19023571	
+Lian Chen	陈联		19004479	
+Marco Wang	王琦		19010661	
+Evan Yang	杨大华		19006874	
+Iris Jiang	蒋丽丽		19009395	
+Wei Pi	皮炜		19030207	
+Chris Li	李貌		19010418	
+Spark Zhu	竺海		10080877	
+Sherry Hu	胡衍		10084977	
+Zhijiang Cao	曹志江		19020189	
+Clifford Chen	陈守水		19031610	
+Peng Zhou	周鹏		19031501	
+Ryan Zhang	张大蒙		10055164	
+Qinye Zhang	张勤页		19031523	
+Thomas Jiang	蒋春涛		10015378	
+June Sun	孙军		19011083	
+Peiquan Cai	蔡佩泉		19031108	
+Jane Zhang	张静		10040372	
+Michelle Li	李妍珺		19006540	
+Bin Zhang	张斌		19031500	
+Jerry Liu	刘力		19017235	
+Qingdan He	何庆丹		19009659	
+Youhai Jiang	姜有海		19010353	
+Vivi Wang	王伟		19030208	
+David Zhong	钟大卫		19031688	
+Donald Shi	石宇杰		19009774	
+Jason Gao	高健		19031378	
+David Xu	徐劼		19003620	
+Ivy Jiang	姜莹		19014894	
+Mingliang Su	宿明亮		19030261	
+Mary Luo	罗雯		19009376	
+Xianjun Zhan	展先俊		19007443	
+Xijia Liu	刘希佳		19003076	
+Cheng Luo	罗成		19010857	
+Peng Wang	王鹏		19031591	
+Elliott Shao	邵筠婷		19023404	
+Andry Wei	魏晓振		10106664	
+Janet Hu	胡海珍		10011764	
+Tommy Cao	曹景泰		19032423	
+Yusheng Liao	廖宇盛		19030061	
+Zhiming Shan	单智明		19031545	
+Jack Cheng	程林		19032197	
+Andrew Xu	许云彤		19023403	
+Yang Xia	夏阳		19021886	
+Yoyo Li	李静		19000764	
+Xueqing Zhang	张雪青		19031228	
+Stella Gu	顾真		19022831	
+Jimmy Huang	黄进		19032353	
+Crystal Li	李小兰		19001749	
+Ken Sun	孙沁原		19022878	
+Eric Tan	谭祖财		19022430	
+Daniel Dong	董晓晖		19022081	
+Jeremy Li	李朝		19032430	
+Kaliven Lee	李葳		10059482	
+Arthur Yang	杨淑华		19011084	
+Wenli Xiao	肖雯丽		19031039	
+Annie He	贺艳红		19011297	
+Chunxun Shi	施春迅		19023438	
+Viko Tao	陶冶		19023597	
+Jun Luo	罗军		10064716	
+Lihui Yang	杨立辉		19020296	
+Weisong Wang	王卫松		19012179	
+Jasmine Tang	唐曼丽		19017884	
+Zhen Jiang	蒋震		19013021	
+Ivan Shi	施大章		19031379	
+Sail Feng	冯利民		10021986	
+Kathy Men	门路开		10022411	
+Hanson Hou	侯蔚宇		11009742	
+Raissa Huang	黄纯权		19006407	
+Vicky Chen	陈俊娴		19007181	
+Lucas Kong	孔昊		19031734	
+Clare Xu	徐俊燕		10063114	
+Cong Chen	陈聪		19006991	
+Mark Gu	顾建栋		10021985	
+Nianshuang Li	李念爽		19023606	
+Jim Jiang	江春华		10090450	
+Benny Liu	刘雷		10055167	
+Steve Sun	孙哲		19003574	
+Terry Xu 徐翔19010842
+Sixue Zhao	赵思雪		19030295	
+Karina Ma	马如蛟		19032005	
+Xuerong Fan	范学荣		19019610	
+Joyce Li	李婷		19009197	
+Grace Hu	胡婷		19007298	
+Huihong Duan	段辉宏		19031200	
+Jian Zhang	张健		19005378	
+Wei Zhu	朱威		19030906	
+Cathy Zhang	张丽平		19032209	
+Terry Zhou	周俊		19006188	
+Deming Li	李德铭		19032847	
+Fuqin Zhang	张富琴		19030265	
+Smith Zhu	朱献军		10075818	
+Nancy Wang	王晓萍		10101026	
+Kian Zhong	仲文斌		19007297	
+Eva Tan	谭爱华		10058829	
+Wayne Gong	龚琛辉		19022257	
+Lyman Ma	马亮		19009315	
+Yiqin Shi	施亦琴		11003632	
+Jiaxin Yao	姚佳欣		19012973	
+Rachel Jiang	蒋莉		19007670	
+Sonia Xing	邢芸芸		19014067	
+Junwei Zhao	赵俊伟		19010015	
+Lina Cao	曹丽娜		19014678	
+Chenwei Ni	倪晨炜		19031370	
+Henry Peng	彭浩瀚		19031764	
+Wenhui Li	李文辉		19031468	
+James Fu	傅巍		19016739	
+Linda Lun	论玉玲		19018033	
+Lily Zhou 周立10031400
+Qingdan He 何庆丹19009659
+Elliott Shao 邵筠婷19023404
+Eva Tan 谭爱华10058829
+Joyce Li 李婷19009197
+Yiqin Shi 施亦琴11003632
+Nancy Wang 王晓萍10101026
+Andry Wei 魏晓振10106664
+Xijiao Chen 陈锡娇19030497
+Terry Xu 徐翔19010842
+Zhiming Shan 单智明19031545
+Clare Xu 徐俊燕10063114
+Ivan Shi 施大章19031379
+Peng Wang 王鹏19031591
+Chenwei Ni 倪晨炜19031370
+Yang Xia 夏阳19021886
+Jasmine Tang 唐曼丽19017884
+Henry Peng 彭浩瀚19031764
+Clifford Chen 陈守水19031610
+Xijia Liu 刘希佳19003076
+Iris Jiang 蒋丽丽19009395
+Yoyo Wanglu 王陆悠悠19032612
+Xueqing Zhang 张雪青19031228
+Kaliven Lee 李葳10059482
+Stella Gu 顾真19022831
+Janet Hu 胡海珍10011764
+Marco Wang 王琦19010661
+Michelle Li 李妍珺19006540
+Chris Li 李貌19010418
+David Yang 杨德庆19008343
+Daniel Dong 董晓晖19022081
+Wenli Xiao 肖雯丽19031039
+Jeremy Li 李朝19032430
+Zhen Jiang 蒋震19013021
+Zhijiang Cao 曹志江19020189
+Jack Zhou 周有杰10055524
+Song Zhao 赵松19018670
+Rita Xiong 熊冰19003081
+June Sun 孙军19011083
+Jimmy Huang 黄进19032353
+Cong Chen 陈聪19006991
+Junwei Zhao 赵俊伟19010015
+Arthur Yang 杨淑华19011084
+Sonia Xing 邢芸芸19014067
+Jane Zhang 张静10040372
+Lucas Kong孔昊19031734
+Thomas Jiang 蒋春涛10015378
+Bin Zhang 张斌19031500
+Fuqin Zhang 张富琴19030265
+Yusheng Liao 廖宇盛19030061
+Benny Liu 刘雷10055167
+Crystal Li 李小兰19001749
+Lina Cao 曹丽娜19014678
+Qinye Zhang 张勤页19031523
+Smith Zhu 朱献军10075818
+Vivi Wang 王伟19030208
+Xiaoqiang Ran 冉晓强19003605
+Tommy Cao 曹景泰19032423
+Kathy Men 门路开10022411
+Mary Luo 罗雯19009376
+Terry Zhou 周俊19006188
+Wei Zhu 朱威19030906
+Wei Pi 皮炜19030207
+Sherry Hu 胡衍10084977
+Steve Sun 孙哲19003574
+Huihong Duan 段辉宏19031200
+Jian Zhang 张健19005378
+Sixue Zhao 赵思雪19030295
+Hanson Hou 侯蔚宇11009742
+Jason Gao 高健19031378
+Lyman Ma 马亮19009315
+Ken Sun 孙沁原19022878
+Eric Tan 谭祖财19022430
+Annie He 贺艳红19011297
+Chunxun Shi 施春迅19023438
+Jack Cheng程林19032197
+Andrew Xu 许云彤19023403
+Jim Jiang 江春华10090450
+Donald Shi 石宇杰19009774
+Deming Li李德铭19032847
+Linda Lun 论玉玲19018033
+Evan Yang 杨大华19006874
+Wenhui Li 李文辉19031468
+Peng Zhou 周鹏19031501
+Youhai Jiang 姜有海19010353
+Wayne Gong 龚琛辉19022257
+Ivy Jiang 姜莹19014894
+Jerry Liu 刘力19017235
+Rachel Jiang 蒋莉19007670
+Lihui Yang 杨立辉19020296
+Yoyo Li 李静19000764
+Peiquan Cai 蔡佩泉19031108
+Sally Huang 黄大荣19001249
+Junquan Lu 卢军权19023571
+Xianjun Zhan 展先俊19007443
+Zhangfeng He 何张峰19022815
+Cheng Luo 罗成19010857
+Lian Chen 陈联19004479
+Jiaxin Yao 姚佳欣19012973
+Ruobing Wu 吴若冰19023370
+David Xu 徐劼19003620
+Mingliang Su 宿明亮19030261
+Spark Zhu 竺海10080877
+Vicky Chen 陈俊娴19007181
+James Fu 傅巍19016739
+Viko Tao 陶冶19023597
+David Zhong 钟大卫19031688
+Rick Yang 杨松19004723
+Jun Luo 罗军10064716
+Alan Chen 陈嘉宇19031737
+Cathy Zhang 张丽平19032209
+Nianshuang Li 李念爽19023606
+Sail Feng 冯利民10021986
+Karina Ma 马如蛟19032005
+Hailei Zhang 张海磊19023417
+Mark Gu 顾建栋10021985
+Kian Zhong 仲文斌19007297
+Forrest Feng 冯长征19003519
+Xuerong Fan 范学荣19019610
+Ryan Zhang 张大蒙10055164
+Raissa Huang 黄纯权19006407
+Shunlin Ye 叶顺林19031227
+Scott Wu 吴晓雄19016487
+Weisong Wang 王卫松19012179
+Grace Hu 胡婷19007298
+Benny Liu 刘雷10055167
+Michelle Li 李妍珺19006540
+Qingdan He 何庆丹19009659
+Kian Zhong 仲文斌19007297
+Marco Wang 王琦19010661
+Jeremy Li 李朝19032430
+Yoyo Wanglu 王陆悠悠19032612
+Alan Chen 陈嘉宇19031737
+Weisong Wang 王卫松19012179
+Junquan Lu 卢军权19023571
+Hanson Hou 侯蔚宇11009742
+Viko Tao 陶冶19023597
+Xiaoqiang Ran 冉晓强19003605
+Raissa Huang 黄纯权19006407
+Jimmy Huang 黄进19032353
+Kathy Men 门路开10022411
+Nancy Wang 王晓萍10101026
+Jerry Liu 刘力19017235
+Xiaoqiang Ran 冉晓强19003605
+Jerry Liu 刘力19017235
+Jeremy Li 李朝19032430
+Kian Zhong 仲文斌19007297
+Kathy Men 门路开10022411
+Michelle Li 李妍珺19006540
+Weisong Wang 王卫松19012179
+Junquan Lu 卢军权19023571
+Alan Chen 陈嘉宇19031737
+Viko Tao 陶冶19023597
+Qingdan He 何庆丹19009659
+Yoyo Wanglu 王陆悠悠19032612
+Marco Wang 王琦19010661
+Nancy Wang 王晓萍10101026
+Hanson Hou 侯蔚宇11009742
+Jimmy Huang 黄进19032353
+Raissa Huang 黄纯权19006407
+Benny Liu 刘雷10055167
+Jeremy Li 李朝19032430
+Junquan Lu 卢军权19023571
+Zhiming Shan 单智明19031545
+Bin Zhang 张斌19031500
+Iris Jiang 蒋丽丽19009395
+Jasmine Tang 唐曼丽19017884
+Scott Wu 吴晓雄19016487
+Jimmy Huang 黄进19032353
+Jiaxin Yao 姚佳欣19012973
+Yusheng Liao 廖宇盛19030061
+Eric Tan 谭祖财19022430
+Yoyo Wanglu 王陆悠悠19032612
+Lina Cao 曹丽娜19014678
+James Fu 傅巍19016739
+Nancy Wang 王晓萍10101026
+Henry Peng 彭浩瀚19031764
+Xiaoqiang Ran 冉晓强19003605
+Lihui Yang 杨立辉19020296
+Zhijiang Cao 曹志江19020189
+Thomas Jiang 蒋春涛10015378
+Jack Cheng程林19032197
+Crystal Li 李小兰19001749
+Kian Zhong 仲文斌19007297
+Huihong Duan 段辉宏19031200
+Raissa Huang 黄纯权19006407
+Rachel Jiang 蒋莉19007670
+Vivi Wang 王伟19030208
+Evan Yang 杨大华19006874
+Wei Zhu 朱威19030906
+Song Zhao 赵松19018670
+Grace Hu 胡婷19007298
+Yang Xia 夏阳19021886
+Tommy Cao 曹景泰19032423
+Smith Zhu 朱献军10075818
+Cathy Zhang 张丽平19032209
+Jim Jiang 江春华10090450
+Andry Wei 魏晓振10106664
+Benny Liu 刘雷10055167
+Vicky Chen 陈俊娴19007181
+Peng Zhou 周鹏19031501
+Lian Chen 陈联19004479
+Yiqin Shi 施亦琴11003632
+Shunlin Ye 叶顺林19031227
+Weisong Wang 王卫松19012179
+June Sun 孙军19011083
+Rick Yang 杨松19004723
+Jerry Liu 刘力19017235
+Viko Tao 陶冶19023597
+Annie He 贺艳红19011297
+Sherry Hu 胡衍10084977
+Junwei Zhao 赵俊伟19010015
+Mary Luo 罗雯19009376
+Xianjun Zhan 展先俊19007443
+Peiquan Cai 蔡佩泉19031108
+Rita Xiong 熊冰19003081
+Ryan Zhang 张大蒙10055164
+Chenwei Ni 倪晨炜19031370
+Wei Pi 皮炜19030207
+Daniel Dong 董晓晖19022081
+David Zhong 钟大卫19031688
+Jack Zhou 周有杰10055524
+Yoyo Li 李静19000764
+Ruobing Wu 吴若冰19023370
+Peng Wang 王鹏19031591
+Xijiao Chen 陈锡娇19030497
+Stella Gu 顾真19022831
+Linda Lun 论玉玲19018033
+Terry Zhou 周俊19006188
+Steve Sun 孙哲19003574
+Lily Zhou 周立10031400
+Qingdan He 何庆丹19009659
+Jane Zhang 张静10040372
+Zhen Jiang 蒋震19013021
+Karina Ma 马如蛟19032005
+Spark Zhu 竺海10080877
+Mark Gu 顾建栋10021985
+Sail Feng 冯利民10021986
+Kaliven Lee 李葳10059482
+Wenhui Li 李文辉19031468
+Xuerong Fan 范学荣19019610
+Arthur Yang 杨淑华19011084
+Lucas Kong孔昊19031734
+Jun Luo 罗军10064716
+Andrew Xu 许云彤19023403
+Hanson Hou 侯蔚宇11009742
+Hailei Zhang 张海磊19023417
+Terry Xu 徐翔19010842
+Marco Wang 王琦19010661
+Chunxun Shi 施春迅19023438
+Qinye Zhang 张勤页19031523
+Cheng Luo 罗成19010857
+Sally Huang 黄大荣19001249
+David Xu 徐劼19003620
+Ivy Jiang 姜莹19014894
+Xijia Liu 刘希佳19003076
+Janet Hu 胡海珍10011764
+Alan Chen 陈嘉宇19031737
+Elliott Shao 邵筠婷19023404
+Cong Chen 陈聪19006991
+Kathy Men 门路开10022411
+Sonia Xing 邢芸芸19014067
+Xueqing Zhang 张雪青19031228
+Jian Zhang 张健19005378
+Clare Xu 徐俊燕10063114
+Michelle Li 李妍珺19006540
+Eva Tan 谭爱华10058829
+Wenli Xiao 肖雯丽19031039
+Nianshuang Li 李念爽19023606
+Ken Sun 孙沁原19022878
+Donald Shi 石宇杰19009774
+Zhangfeng He 何张峰19022815
+Sixue Zhao 赵思雪19030295
+Wayne Gong 龚琛辉19022257
+Joyce Li 李婷19009197
+Chris Li 李貌19010418
+Youhai Jiang 姜有海19010353
+David Yang 杨德庆19008343
+Mingliang Su 宿明亮19030261
+Jason Gao 高健19031378
+Deming Li李德铭19032847
+Clifford Chen 陈守水19031610
+Lyman Ma 马亮19009315
+Ivan Shi 施大章19031379
+Fuqin Zhang 张富琴19030265
+Forrest Feng 冯长征19003519
